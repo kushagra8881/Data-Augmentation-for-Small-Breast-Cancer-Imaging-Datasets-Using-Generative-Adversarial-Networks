@@ -1,0 +1,32 @@
+==== SEGMENTATION TEST RESULTS ====
+
+=== Overall Metrics ===
+Accuracy: 0.9590
+Recall/Sensitivity: 0.3943
+Specificity: 0.9923
+Precision: 0.7503
+F1-Score: 0.5170
+Dice: 0.5170
+IoU/Jaccard: 0.3486
+
+=== Confusion Matrix ===
+TN: 12281397, FP: 95782
+FN: 442145, TP: 287876
+
+=== Per-Class Metrics ===
+Class Positive (1):
+  Accuracy: 0.9590
+  Recall/Sensitivity: 0.3943
+  Specificity: 0.9923
+  Precision: 0.7503
+  F1-Score: 0.5170
+  Dice: 0.5170
+  IoU/Jaccard: 0.3486
+Class Negative (0):
+  Accuracy: 0.9590
+  Recall/Sensitivity: 0.9923
+  Specificity: 0.3943
+  Precision: 0.9652
+  F1-Score: 0.9786
+  Dice: 0.9786
+  IoU/Jaccard: 0.9580
